@@ -479,6 +479,11 @@ mark,
   height: auto;
 }
 
+.img-course {
+  max-width: 150%;
+  height: auto;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -10251,6 +10256,8 @@ body {
 
 .about-section {
   padding: 10rem 0;
+  width: 100%;
+  height: auto;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/headshot.jpg");
   background-position: center;
   background-repeat: no-repeat;
